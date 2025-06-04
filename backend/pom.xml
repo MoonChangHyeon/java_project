@@ -63,6 +63,12 @@
             <artifactId>poi-ooxml</artifactId>
             <version>5.2.3</version>
         </dependency>
+        <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <version>1.18.32</version> <!-- 최신 버전 확인 가능 -->
+        <scope>provided</scope>
+    </dependency>
     </dependencies>
     <build>
         <plugins>

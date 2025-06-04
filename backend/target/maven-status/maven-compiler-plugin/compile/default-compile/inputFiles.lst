@@ -1,0 +1,17 @@
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/service/FortifyService.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/entity/Role.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/repository/UserRepository.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/controller/ScanController.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/repository/VulnerabilityRepository.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/FortifyAppApplication.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/entity/User.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/controller/AuthController.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/security/SecurityConfig.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/repository/ScanRepository.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/security/JwtService.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/security/PasswordConfig.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/controller/ReportController.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/controller/FprController.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/entity/Scan.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/entity/Vulnerability.java
+/Users/munchanghyeon/Documents/Workspce/src/java_project/backend/src/main/java/com/example/fortifyapp/controller/VulnerabilityController.java
